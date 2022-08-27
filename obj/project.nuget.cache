@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bAm9XOuTpqiCg6iq+UP7f0/wsLNCmrbOVKo3COyVQK3GVzDhEZjZx2SpbVQPvoUV5mvYHOJSzgwpfP0B7HdRaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tabmin\\source\\repos\\wttantimod\\wttantimod\\wttantimod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tabmin\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.0.1\\pathoschild.stardew.modbuildconfig.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

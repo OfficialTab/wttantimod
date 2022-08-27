@@ -1,0 +1,10 @@
+﻿{
+    "Name": "wttantimod",
+    "Author": "theofficialtab",
+    "Version": "1.0.71",
+    "Description": "This mod reverses the effects of the walk through trellis mod for stardew valley",
+    "UniqueID": "theofficialtab.wttantimod",
+    "EntryDll": "wttantimod.dll",
+    "MinimumApiVersion": "3.16.0",
+    "UpdateKeys": ["Nexus:1958"]
+}

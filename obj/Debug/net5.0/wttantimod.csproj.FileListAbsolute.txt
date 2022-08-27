@@ -1,0 +1,10 @@
+C:\Users\Tabmin\source\repos\wttantimod\wttantimod\bin\Debug\net5.0\wttantimod.deps.json
+C:\Users\Tabmin\source\repos\wttantimod\wttantimod\bin\Debug\net5.0\wttantimod.dll
+C:\Users\Tabmin\source\repos\wttantimod\wttantimod\bin\Debug\net5.0\wttantimod.pdb
+C:\Users\Tabmin\source\repos\wttantimod\wttantimod\obj\Debug\net5.0\wttantimod.csproj.AssemblyReference.cache
+C:\Users\Tabmin\source\repos\wttantimod\wttantimod\obj\Debug\net5.0\wttantimod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tabmin\source\repos\wttantimod\wttantimod\obj\Debug\net5.0\wttantimod.AssemblyInfoInputs.cache
+C:\Users\Tabmin\source\repos\wttantimod\wttantimod\obj\Debug\net5.0\wttantimod.AssemblyInfo.cs
+C:\Users\Tabmin\source\repos\wttantimod\wttantimod\obj\Debug\net5.0\wttantimod.csproj.CoreCompileInputs.cache
+C:\Users\Tabmin\source\repos\wttantimod\wttantimod\obj\Debug\net5.0\wttantimod.dll
+C:\Users\Tabmin\source\repos\wttantimod\wttantimod\obj\Debug\net5.0\wttantimod.pdb
